@@ -6,7 +6,7 @@ author: ["Javier Becerril, Maximiliano Vargas, Jennifer Herrera, Joanna Gutierre
 description: "This paper presents a non-contact approach for vibration-based structural damage detection using an autonomous and customized cost-effective unmanned aerial vehicle (UAV). " 
 summary: "This paper presents a non-contact approach for vibration-based structural damage detection using an autonomous and customized cost-effective unmanned aerial vehicle (UAV). " 
 cover:
-    image: "paper2.png"
+    image: "./paper2.png"
     alt: ""
     relative: true
 editPost:

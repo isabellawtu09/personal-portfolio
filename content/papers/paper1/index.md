@@ -6,7 +6,7 @@ author: ["Peihan Li, Joanna Gutierrez, Fabian Hernandez, Qi Lu, Lifeng Zhou"]
 description: "This paper proposes LLM-Foraging, a decentralized swarm controller that augments the CPFA state machine with a large language model (LLM)." 
 summary: "This paper proposes LLM-Foraging, a decentralized swarm controller that augments the CPFA state machine with a large language model (LLM)." 
 cover:
-    image: "paper1.png"
+    image: "./paper1.png"
     alt: ""
     relative: true
 editPost:
