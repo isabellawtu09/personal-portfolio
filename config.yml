@@ -70,7 +70,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Gutierrez_Joanna_CV.pdf
         - name: Email
           url: mailto:joannaisabellgutierrez@gmail.com
         - name: GitHub
