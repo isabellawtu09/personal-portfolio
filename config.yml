@@ -75,8 +75,8 @@ params:
           url: mailto:joannaisabellgutierrez@gmail.com
         - name: GitHub
           url: https://github.com/isabellawtu09
-        # - name: Medium
-        #   url: https://user.substack.com
+        - name: Medium
+          url: https://medium.com/@joannaisabellagutierrez
         - name: LinkedIn
           url: https://linkedin.com/in/joannaigutierrez
     assets:
